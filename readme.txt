@@ -1,7 +1,7 @@
-Git is a distributed version control system.
-Git is a free software distributed under th GPL.
-Git has a mutable index called stage.
-Creating a new branch is quick.
-Creating a new branch is quick and simple.
-The file is various
-the issue has been resolved
+- Git is a distributed version control system.
+- Git is a free software distributed under th GPL.
+- Git has a mutable index called stage.
+- Creating a new branch is quick.
+- Creating a new branch is quick and simple.
+- The file is various
+- the issue has been resolved
